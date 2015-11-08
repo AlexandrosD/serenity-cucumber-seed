@@ -1,1 +1,1 @@
-Seed project for test automation using Serenity, *Cucumber*, and *Selenium WebDriver*
+Seed project for test automation using **Serenity**, **Cucumber**, and **Selenium WebDriver**
