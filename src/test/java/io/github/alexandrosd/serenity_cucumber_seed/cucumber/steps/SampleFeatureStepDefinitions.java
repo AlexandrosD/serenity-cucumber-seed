@@ -1,11 +1,11 @@
-package io.github.alexandrosd.serenityseed.cucumber.steps;
+package io.github.alexandrosd.serenity_cucumber_seed.cucumber.steps;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import net.thucydides.core.annotations.Steps;
 
-import io.github.alexandrosd.serenityseed.cucumber.steps.serenity.ActorSteps;
+import io.github.alexandrosd.serenity_cucumber_seed.cucumber.steps.serenity.ActorSteps;
 
 public class SampleFeatureStepDefinitions {
     @Steps

@@ -1,6 +1,6 @@
-package io.github.alexandrosd.serenityseed.cucumber.steps.serenity;
+package io.github.alexandrosd.serenity_cucumber_seed.cucumber.steps.serenity;
 
-import io.github.alexandrosd.serenityseed.cucumber.pages.GoogleHomePage;
+import io.github.alexandrosd.serenity_cucumber_seed.cucumber.pages.GoogleHomePage;
 import net.thucydides.core.annotations.Step;
 import net.thucydides.core.steps.ScenarioSteps;
 

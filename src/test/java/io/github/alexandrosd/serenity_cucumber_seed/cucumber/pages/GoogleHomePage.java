@@ -1,4 +1,4 @@
-package io.github.alexandrosd.serenityseed.cucumber.pages;
+package io.github.alexandrosd.serenity_cucumber_seed.cucumber.pages;
 
 import net.serenitybdd.core.pages.WebElementFacade;
 import net.thucydides.core.pages.PageObject;

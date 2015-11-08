@@ -1,4 +1,4 @@
-package io.github.alexandrosd.serenityseed;
+package io.github.alexandrosd.serenity_cucumber_seed;
 
 import cucumber.api.CucumberOptions;
 import net.serenitybdd.cucumber.CucumberWithSerenity;
